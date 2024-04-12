@@ -48,7 +48,8 @@
 
 ### Name: S.Priyadharshini
 ### Register Number: 212223240129
-![Screenshot 2024-04-12 104046](https://github.com/priyadharshini225/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/138849213/0c67ffe1-f05e-40e5-a7d6-f455e150a44f)
+![output](https://github.com/priyadharshini225/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/138849213/8d2087d3-5617-426c-9f6d-061a1b2a1e75)
+
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
